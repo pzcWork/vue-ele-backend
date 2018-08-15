@@ -1,5 +1,3 @@
-# panda_miner
-
 > 后面会陆续更新
 
 ## Build Setup
